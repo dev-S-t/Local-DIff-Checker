@@ -1,0 +1,5 @@
+{
+  "name": "Secure Local Diff Checker",
+  "description": "A completely local, browser-based diff tool for comparing text, files, and folders securely.",
+  "requestFramePermissions": []
+}
